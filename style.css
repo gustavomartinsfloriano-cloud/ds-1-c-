@@ -1,18 +1,16 @@
-body {
-    background-color: rgb(125, 0, 163);
-    text-align: center;
-    border-radius: 180px;
-    border-style: groove;
-background-image: url("eva.webp");
+body { 
+  background-color: rgb(96, 0, 125); 
+  text-align: center; 
+  border-radius: 180px; 
+  border-style: groove; 
+  background-image: url( eva.webp ); 
+} 
 
-}
-.cartao img {
-    width: 500px;  
-    background-color: blue;
-    margin:auto
-
-}
-
-p, h1, h2 {
-    color: rgb(255, 0, 0);
+.cartao img { 
+  width: 250px; 
+  background-color: blue; 
+  margin-top: 50px; 
+} 
+p, h1, h2 { 
+  color: rgb(255, 0, 0); 
 }
